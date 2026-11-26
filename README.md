@@ -54,4 +54,4 @@ Windows와 Python 3.12를 기준으로 하는 [개발 안내](docs/development.m
 
 [Issues](https://github.com/jaesungkr/slink/issues)에 Windows 버전, Slink 버전, 재현 순서를 남겨 주세요. 스크린샷에는 개인적인 창 제목이나 내용이 포함되지 않도록 확인해 주세요.
 
-현재 저장소에는 별도 LICENSE 파일이 없습니다. 재배포나 코드 재사용 조건은 아직 명시되지 않았습니다.
+Slink의 원본 코드, 문서, 자산에는 [MIT 라이선스](LICENSE)가 적용됩니다. 타사 구성 요소에는 각 구성 요소의 라이선스가 적용됩니다.

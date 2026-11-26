@@ -54,4 +54,4 @@ The [development guide](docs/development.md) covers Windows setup, Python 3.12, 
 
 Include your Windows version, Slink version, and reproduction steps in [Issues](https://github.com/jaesungkr/slink/issues). Remove personal window titles and content from screenshots before sharing.
 
-This repository currently has no separate LICENSE file. Redistribution and code reuse terms have not been specified.
+Slink’s original code, documentation, and assets are licensed under the [MIT License](LICENSE). Third-party components are covered by their respective licenses.
