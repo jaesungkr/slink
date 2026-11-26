@@ -354,6 +354,9 @@ body.light {
 }
 .link-btn:hover { color: var(--fg); }
 
+.repo-link { display: inline-block; color: var(--fg-2); }
+.repo-link:focus-visible { outline: 2px solid var(--fg-2); outline-offset: 2px; }
+
 /* ── Theme Toggle ─────────────────────────── */
 .theme-toggle {
   display: inline-flex;
@@ -473,6 +476,7 @@ body.light {
         <div class="info-row"><span class="info-label">Version</span><span class="info-value" id="info-version"></span></div>
         <div class="info-row"><span class="info-label">Author</span><span class="info-value" id="info-author"></span></div>
         <div class="info-row"><span class="info-label">License</span><span class="info-value">MIT</span></div>
+        <a class="link-btn repo-link" href="https://github.com/jaesungkr/slink" target="_blank" rel="noopener noreferrer">Star on GitHub</a>
       </div>
 
       <div class="card">
